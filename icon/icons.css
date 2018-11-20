@@ -1,0 +1,66 @@
+@font-face {
+    font-family: "icons";
+    src: url("./icons.eot?76fc695c721b18a93166a2a8d53218a5?#iefix") format("embedded-opentype"),
+url("./icons.woff2?76fc695c721b18a93166a2a8d53218a5") format("woff2"),
+url("./icons.woff?76fc695c721b18a93166a2a8d53218a5") format("woff"),
+url("./icons.ttf?76fc695c721b18a93166a2a8d53218a5") format("truetype"),
+url("./icons.svg?76fc695c721b18a93166a2a8d53218a5#icons") format("svg");
+}
+
+i {
+    line-height: 1;
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bell:before {
+    content: "\f101";
+}
+.icon-css3-alt-brands:before {
+    content: "\f102";
+}
+.icon-economy-icon:before {
+    content: "\f103";
+}
+.icon-html5-brands:before {
+    content: "\f104";
+}
+.icon-intersection-icon:before {
+    content: "\f105";
+}
+.icon-js-square-brands:before {
+    content: "\f106";
+}
+.icon-lecture-icon:before {
+    content: "\f107";
+}
+.icon-less-brands:before {
+    content: "\f108";
+}
+.icon-node-js-brands:before {
+    content: "\f109";
+}
+.icon-php-brands:before {
+    content: "\f10a";
+}
+.icon-review-icon:before {
+    content: "\f10b";
+}
+.icon-sass-brands:before {
+    content: "\f10c";
+}
+.icon-translation-icon:before {
+    content: "\f10d";
+}
+.icon-wordpress-brands:before {
+    content: "\f10e";
+}
